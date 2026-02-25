@@ -23,5 +23,8 @@ Bluetooth Module (HC-05): Enables wireless serial communication, allowing for ma
 
 Secțiunea Project Showcase
 
-<p align="left"><img src="image/car1.jpg" width="400"></p>
-
+<p align="center">
+<img src="image/car1.jpg" width="32%" />
+<img src="image/car2.jpg" width="32%" />
+<img src="image/car3.jpg" width="32%" />
+</p>
