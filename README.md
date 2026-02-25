@@ -21,7 +21,7 @@ Bluetooth Module (HC-05): Enables wireless serial communication, allowing for ma
 
 1x Micro Servo (SG90): Positioned at the front to rotate the ultrasonic sensor 180°, enabling environment scanning before choosing a turn direction.
 
-Secțiunea Project Showcase
+Project Showcase
 
 <p align="center">
 <img src="image/car1.jpg" width="32%" />
